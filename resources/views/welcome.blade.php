@@ -32,6 +32,7 @@
                     @endauth
                 </div>
             @endif
+            
             <div class="text-gray-600">
                 <table class="table">
                     <tr><td>Row 1</td></tr>
